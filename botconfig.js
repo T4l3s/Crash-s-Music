@@ -12,7 +12,7 @@ module.exports = {
   "24/7": true, //If you want the bot to be stay in the vc 24/7
   CookieSecret: "Pikachu is cute", //A Secret like a password
   IconURL:
-    "https://raw.githubusercontent.com/T4l3s/Crash-s-Music/main/assets/Logo.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
+    "./assets/Logo.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   EmbedColor: "RANDOM", //Color of most embeds | Dont edit unless you want a specific color instead of a random one each time
   Permissions: 2205280576, //Bot Inviting Permissions
   Website: process.env.Website || "https://crashsmusic.herokuapp.com", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
