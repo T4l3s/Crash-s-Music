@@ -1,0 +1,772 @@
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"23:function getMinutes() { [native code] } - 21:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main had an error: connect ENETUNREACH 255.255.255.255:1234 - Local (0.0.0.0:0)"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main had an error: connect ENETUNREACH 255.255.255.255:1234 - Local (0.0.0.0:0)"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 670667317264384021"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 670667317264384021"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 670667317264384021"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Web Server has been started"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: seek"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Command Loaded: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: message"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: raw"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: ready"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Successfully Logged in as Chaoss Music#0938"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 670667317264384021"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Registering slash commands for 767455614678728724"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 767455614678728724, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: [Slash Command]: [POST-FAILED] Guild 670667317264384021, Command: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"2:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"2:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"2:function getMinutes() { [native code] } - 22:8:2021 | Info: Lavalink: Node Main had an error: Unable to connect after 5 attempts."}
