@@ -4,7 +4,7 @@ module.exports = {
   DefaultPrefix: process.env.Prefix || "!", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://discordapp.com/users/315576376327405589", //Support Server Link
-  Token: process.env.Token || "OTAxNTgwMzEwNDQ4MzE2NTI3.YXR8GA.nUaQn_o51uaDXVZ36DvUDxu_vyw", //Discord Bot Token
+  Token: process.env.Token || "ODg5OTYxMzA0NzQyMzAxNjk2.GLmKBe.a1IdSRicZq35v0PAGpKAeRKJw5PgZ_V5K6UK7Q", //Discord Bot Token
   ClientID: process.env.Discord_ClientID || "901580310448316527", //Discord Client ID
   ClientSecret: process.env.Discord_ClientSecret || "OVWXH2UQ4f0w95LlL-f-U30jewFFhvhs", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
@@ -20,9 +20,9 @@ module.exports = {
   //Lavalink
 Lavalink: {
     id: "Main",
-    host: "lavalink.darrennathanael.com",
-    port: 2095,
-    pass: "whatwasthelastingyousaid",
+    host: "connect.freelavalink.ga",
+    port: 2000,
+    pass: "www.freelavalink.ga",
   },
 
 
